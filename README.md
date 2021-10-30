@@ -1,2 +1,3 @@
-# Companion code repository for the Bioinformatics in the Azure Cloud book
+# _Bioinformatics in the Azure Cloud_
+## Companion code repository
 <h3 align = "right">Colby T. Ford, Ph.D.</h3>
