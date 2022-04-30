@@ -1,4 +1,7 @@
 # _Genomics in Azure_
+
+https://www.manning.com/books/genomics-in-azure
+
 ## Companion code repository
 <h3 align = "right">Colby T. Ford, Ph.D.</h3>
 
