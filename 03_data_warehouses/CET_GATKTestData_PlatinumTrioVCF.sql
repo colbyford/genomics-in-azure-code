@@ -1,3 +1,7 @@
+/*
+Creating an External Table of GATK VCF data from a Public Data Lake
+*/
+
 
 -- DROP EXTERNAL FILE FORMAT [SynapseVCFFormat] 
 IF NOT EXISTS (SELECT * FROM sys.external_file_formats WHERE name = 'SynapseVCFFormat') 
