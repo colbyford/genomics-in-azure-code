@@ -8,7 +8,7 @@ Book Link: https://www.manning.com/books/genomics-in-azure
 
 
 ## Chapters with Code
-- [Chapter 2: Data Lakes]()
+<!-- - [Chapter 2: Data Lakes]() -->
 - [Chapter 3: Data Warehouses](03_data_warehouses)
 - [Chapter 4: Data Orchestration](04_data_orchestration)
 - [Chapter 5: Databricks (and Apache Spark)](05_databricks)
