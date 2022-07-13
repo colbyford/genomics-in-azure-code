@@ -2,7 +2,8 @@
 
 <h3 align = "right">Colby T. Ford, Ph.D.</h3>
 
-Book Link: https://www.manning.com/books/genomics-in-azure
+Manning Book Link: https://www.manning.com/books/genomics-in-azure
+(Do not purchase the book through Manning as the book will be published by another publisher soon.)
 
 
 
