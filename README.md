@@ -13,3 +13,16 @@ O'Reilly Book Link: https://www.oreilly.com/library/view/genomics-in-the/9781098
 - [Chapter 5: Databricks (and Apache Spark)](05_databricks)
 - [Chapter 6: Azure Machine Learning](06_amls)
 - [Chapter 7: HPC and other Compute Services](07_hpc)
+
+## Citation
+
+```
+@BOOK{genomics_in_azure_ford,
+  TITLE = {Genomics in the Azure Cloud},
+  SUBTITLE = {Scaling Your Bioinformatics Workloads Using Enterprise-Grade Solutions},
+  AUTHOR = {Ford, Colby T.},
+  YEAR = {2022},
+  PUBLISHER = {O'Reilly Media},
+  ISBN = {9781098138981}
+}
+```
