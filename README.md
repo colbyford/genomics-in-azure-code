@@ -17,7 +17,7 @@ O'Reilly Book Link: https://www.oreilly.com/library/view/genomics-in-the/9781098
 ## Citation
 
 ```
-@BOOK{genomics_in_azure_ford,
+@book{genomics_in_azure_ford,
   TITLE = {Genomics in the Azure Cloud},
   SUBTITLE = {Scaling Your Bioinformatics Workloads Using Enterprise-Grade Solutions},
   AUTHOR = {Ford, Colby T.},
