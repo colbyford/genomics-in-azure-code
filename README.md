@@ -3,6 +3,7 @@
 <h3 align = "right">Colby T. Ford, Ph.D.</h3>
 
 O'Reilly Book Link: https://www.oreilly.com/library/view/genomics-in-the/9781098139032/
+Amazon Book Link: https://www.amazon.com/Genomics-Azure-Cloud-Bioinformatics-Enterprise-Grade/dp/1098139046
 
 
 
