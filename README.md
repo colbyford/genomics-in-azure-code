@@ -10,6 +10,7 @@
 - O'Reilly: https://www.oreilly.com/library/view/genomics-in-the/9781098139032/
 - Amazon: https://www.amazon.com/Genomics-Azure-Cloud-Bioinformatics-Enterprise-Grade/dp/1098139046
 - Target: https://www.target.com/p/genomics-in-the-azure-cloud-by-colby-ford-paperback/-/A-87567449
+- Barnes and Noble: https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614
 
 
 
