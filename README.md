@@ -22,6 +22,8 @@
 - [Chapter 6: Azure Machine Learning](06_amls)
 - [Chapter 7: HPC and other Compute Services](07_hpc)
 
+<!-- Other Resources -->
+
 ## Citation
 
 ```
