@@ -26,7 +26,7 @@
 ## Citation
 
 ```
-@book{genomics_in_azure_ford,
+@book{genomics_in_the_azure_cloud_ford,
   TITLE = {Genomics in the Azure Cloud},
   SUBTITLE = {Scaling Your Bioinformatics Workloads Using Enterprise-Grade Solutions},
   AUTHOR = {Ford, Colby T.},
