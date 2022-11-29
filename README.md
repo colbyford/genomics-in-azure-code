@@ -25,6 +25,8 @@
 
 ## Citation
 
+Ford, Colby T. _Genomics in the Azure Cloud_, O'Reilly Media, 2022.
+
 ```
 @book{genomics_in_the_azure_cloud_ford,
   TITLE = {Genomics in the Azure Cloud},
