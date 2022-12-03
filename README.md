@@ -10,7 +10,7 @@
 - Amazon: https://www.amazon.com/Genomics-Azure-Cloud-Bioinformatics-Enterprise-Grade/dp/1098139046
 - Target: https://www.target.com/p/genomics-in-the-azure-cloud-by-colby-ford-paperback/-/A-87567449
 - Barnes and Noble: https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614
-
+- Shroff Publishers (India): https://www.shroffpublishers.com/books/9789355423641/
 
 
 ## Chapters with Code
