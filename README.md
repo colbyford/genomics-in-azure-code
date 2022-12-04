@@ -1,4 +1,3 @@
-
 ![](https://raw.githubusercontent.com/colbyford/colbyford/master/github_banner.png)
 
 # _Genomics in the Azure Cloud_ - Companion code repository
