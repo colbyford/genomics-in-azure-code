@@ -11,6 +11,9 @@
 - Barnes and Noble: https://www.barnesandnoble.com/w/genomics-in-the-azure-cloud-colby-ford/1142086614
 - Shroff Publishers (India): https://www.shroffpublishers.com/books/9789355423641/
 
+@@ Get Started for Free
+- $200 Azure Credit: https://azure.microsoft.com/en-us/free/
+
 
 ## Chapters with Code
 <!-- - [Chapter 2: Data Lakes]() -->
